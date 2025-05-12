@@ -46,7 +46,13 @@
 
 ## 📂 Projects
 - [AI-Powered Size Chart Generator](https://github.com/HarshGupta-1708/Grid6.0.git) – AI model using KMeans for apparel size prediction  
-- [Real Estate Management System](https://github.com/hsg1708/Realestate-website.git) – Full-stack CRUD app with role management and MySQL
+- [Real Estate Management System](https://github.com/hsg1708/Realestate-website.git) – Full-stack CRUD app with role management and MySQL  
+- [Checkers Game](https://github.com/HarshGupta-1708/Checkers-game) – A Python-based implementation of a multiplayer checkers board game  
+- [Netflix Clone](https://github.com/HarshGupta-1708/Netflix-Clone) – A front-end replica of Netflix with basic UI and responsive layout  
+- [ServiceSphere Web App](https://github.com/HarshGupta-1708/ServiceSphere-Web-Application) – Web application for organizing service management workflows  
+- [StudySphere](https://github.com/HarshGupta-1708/StudySphere) – JavaScript project for collaborative study resources  
+- [Grid6.0](https://github.com/HarshGupta-1708/Grid6.0) – Flipkart GRiD competition repository and implementation
+
 
 ## 📫 Connect with me
 - 📧 [Email](mailto:hsg99100@gmail.com)
