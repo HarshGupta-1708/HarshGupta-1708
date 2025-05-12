@@ -58,7 +58,6 @@
 - 📧 [Email](mailto:hsg99100@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/harshgupta1708)
 - 💻 [GitHub](https://github.com/HarshGupta-1708)
-- 📄 [Resume](https://drive.google.com/file/d/1wcGPhy3zapjWNbvCNrpOoKVAsREViCMa/view?usp=sharing)
 
 ---
 
