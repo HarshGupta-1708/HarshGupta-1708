@@ -7,11 +7,19 @@
 ---
 
 <h3 align="left">Profiles:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshgupta1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshgupta1708" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/harshgupta1708" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshgupta1708" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/harsh_gupta1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harsh_gupta1708" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/harshgupta1708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshgupta1708" height="30" width="40" /></a>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center;">
+  <a href="https://linkedin.com/in/harshgupta1708" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/harshgupta1708" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/harsh_gupta1708/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/harshgupta1708/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
